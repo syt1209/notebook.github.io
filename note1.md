@@ -16,7 +16,7 @@
 
 ### Research Data Management
 
-* **_Research data _**– the recorded factual material commonly accepted in the scientific community as necessary to validate research findings.
+* **_Research data_**– the recorded factual material commonly accepted in the scientific community as necessary to validate research findings.
 * **_Research data management_** – storage, access, and preservation of data produced from a given investigation.
 * **_Data_** **_for reproducibility_**= **appraising data** (underlying published results) + **metadata/documentation** (contextual details about the data sets) + **code/scripts** (associated with analyses and results)
 * **_Lifecycle: <span style="text-decoration:underline;">Plan  → Collect → Assure → Describe → Preserve → Discover → Integrate → Analyze → Plan</span>_**
@@ -54,4 +54,4 @@
     * **Public access, data sharing, and dissemination**
     * **Retention**
 
-    **	_[Browse Data Sharing Requirements by Federal Agency](https://datasharing.sparcopen.org
+    **	[Browse Data Sharing Requirements by Federal Agency](https://datasharing.sparcopen.org)
