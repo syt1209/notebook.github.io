@@ -16,10 +16,10 @@
 
 ### Research Data Management
 
-* **_Research data_**– the recorded factual material commonly accepted in the scientific community as necessary to validate research findings.
-* **_Research data management_** – storage, access, and preservation of data produced from a given investigation.
-* **_Data_** **_for reproducibility_**= **appraising data** (underlying published results) + **metadata/documentation** (contextual details about the data sets) + **code/scripts** (associated with analyses and results)
-* **_Lifecycle: <span style="text-decoration:underline;">Plan  → Collect → Assure → Describe → Preserve → Discover → Integrate → Analyze → Plan</span>_**
+* **Research data**– the recorded factual material commonly accepted in the scientific community as necessary to validate research findings.
+* **Research data management** – storage, access, and preservation of data produced from a given investigation.
+* **Data** **for reproducibility**= **appraising data** (underlying published results) + **metadata/documentation** (contextual details about the data sets) + **code/scripts** (associated with analyses and results)
+* **Lifecycle: <span style="text-decoration:underline;">Plan  → Collect → Assure → Describe → Preserve → Discover → Integrate → Analyze → Plan</span>**
     * **Plan**
         * File naming convention
         * Standard way for structuring folder directories
@@ -48,10 +48,10 @@
         * Assigning a license defining terms of use
         * Ensuring sensitive data sets meet IRB standards for consent and de-identification
         * Deposit after appropriate embargoing for publication, intellectual property, or security
-* **_Data policies_**
-    * **Data ownership and intellectual property**
-    * **Data management and stewardship responsibilities**
-    * **Public access, data sharing, and dissemination**
-    * **Retention**
+* **Data policies**
+    * Data ownership and intellectual property**
+    * Data management and stewardship responsibilities**
+    * Public access, data sharing, and dissemination**
+    * Retention**
 
     **	[Browse Data Sharing Requirements by Federal Agency](https://datasharing.sparcopen.org)
