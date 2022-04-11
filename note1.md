@@ -1,8 +1,6 @@
-## Best Practices for Biomedical Research Data Management
-[Harvard Medical School Course](https://www.canvas.net/browse/harvard-medical/courses/biomed-research-data-mgmt)
+### Best Practices for Biomedical Research Data Management
 
-\
-&nbsp;
+[Harvard Medical School Course](https://www.canvas.net/browse/harvard-medical/courses/biomed-research-data-mgmt)
 
 **Main takeways**
 - Types of research data.
@@ -15,7 +13,7 @@
 - Importance of managing and sharing research data.
 - Characteristics of long-term storage, curation, and preservation of research data.
 
-### Research Data Management
+#### Research Data Management
 
 * **Research data**– the recorded factual material commonly accepted in the scientific community as necessary to validate research findings.
 * **Research data management** – storage, access, and preservation of data produced from a given investigation.
@@ -50,9 +48,9 @@
         * Ensuring sensitive data sets meet IRB standards for consent and de-identification
         * Deposit after appropriate embargoing for publication, intellectual property, or security
 * **Data policies**
-    * Data ownership and intellectual property**
-    * Data management and stewardship responsibilities**
-    * Public access, data sharing, and dissemination**
-    * Retention**
+    * Data ownership and intellectual property
+    * Data management and stewardship responsibilities
+    * Public access, data sharing, and dissemination
+    * Retention
 
-    **	[Browse Data Sharing Requirements by Federal Agency](https://datasharing.sparcopen.org)
+    [Browse Data Sharing Requirements by Federal Agency](https://datasharing.sparcopen.org)
