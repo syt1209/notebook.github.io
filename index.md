@@ -1,11 +1,11 @@
 
 ## My Notebook
 
-- Medical Data
+* Medical Data
   1. [Best Practices for Biomedical Research Data Management](./note1)
 
-- Cybersecurity
+* Cybersecurity
 
-- Mathematics
+* Mathematics
 
-- Self-improvement
+* Self-improvement
