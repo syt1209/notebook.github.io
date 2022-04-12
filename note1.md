@@ -54,3 +54,29 @@
     * Retention
 
     [Browse Data Sharing Requirements by Federal Agency](https://datasharing.sparcopen.org)
+* **Data types**
+    * **_Raw data_**: What is being measured or observed? This is the data that is being generated during the research project. 
+    * **_Processed data_**: How can the raw data be made useful/manipulable?
+    * **_Analyzed data_**: What does the data tell us? Is it significant? How so?
+    * **_Finalized/published data_**: How does the data support your research question?
+    * **_Derived or compiled data_** is reproducible but expensive. Examples include 'Data mining', 'Compiled databases', and '3D models'.
+    * **_Observational data_** is captured in real time, usually irreplaceable (sensor readings, telescope images, sample data)
+    * **_Experimental data_** is obtained from lab equipment, often reproducible but can be expensive (gene sequences, chromatograms)
+    * **_Simulation data_** is generated from test models where models and metadata are more important than output data (climate models)
+
+* **Trade secrets** are not considered research data because they must be held confidential by a researcher until they are published, and are protected under law.
+
+* **Medical information** or other information that could be used to identify a particular person in a research study are not considered research data because if disclosed, it would constitute a clearly unwarranted invasion of personal privacy.
+
+* **Data Management Plans (DMPs)** cover all stages of the data life cycle.
+
+* **Spreadsheets and databases** relate to data discovery, collection and organization.
+
+* **Data types and laboratory methods** should be documented for data quality assurance and control.
+
+* **Policies** should be consulted when addressing data preservation and dissemination plans for data sharing.
+
+\
+&nbsp;
+
+#### The Research Lifecycle
