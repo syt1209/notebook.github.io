@@ -110,7 +110,7 @@
 ##### Research Data Files
 
 ---------------------------------------
-**_Readings & Resources_**
+###### Readings & Resources
 * [Ten Simple Rules for Creating a Good Data Management Plan](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004525)
 * [Research Data Management: A Primer Publication of the National Information Standards Organization](https://groups.niso.org/higherlogic/ws/public/download/15375/PrimerRDM-2015-0727.pdf)
 * [Data Management Best Practices](https://old.dataone.org/best-practices)
