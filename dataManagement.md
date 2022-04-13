@@ -4,7 +4,11 @@
 
 **Main takeways**
 - Types of research data.
-- The research data lifecycle.
+- The research lifecycle.
+- The data lifecycle.
+- Common data formats and file types that facilitate long-term access to data.
+- Significance of observing file naming conventions and version control.
+- Documentation needed to facilitate accessibility and reproducibility of findings.
 - The documentation needed to facilitate accessibility and reproducibility of research findings.
 - The intent of data policies
 - Major government funding agencies currently requiring data management plans.
@@ -80,3 +84,43 @@
 &nbsp;
 
 #### The Research Lifecycle
+
+* **Preferred data formats**
+    * _non-proprietary (open)_
+    * _unencrypted and uncompressed_
+
+* **Data/file types better for long-term preservation**
+    * _Tabular data: CSV_
+    * _Moving images: MOV, MPEG_
+    * _Audio: WAVE, MP3_
+    * _Images: TIFF, JEPG2000 (.jp2)_
+    * _Text: PDF/A, ASCII_
+
+* **ISO standards for dates**: yyyymmdd
+
+* **Metadata**: 
+    * _Who_ | Who collected the data? Who/what were the subjects under study?
+    * _What_ | What data was collected, and for what purpose? What is the content and structure of the data?
+    * _Where_ | Where was this data collected? What were the experimental conditions that produced it?
+    * _When_ | When was the data collected? Is the data part of a series, or ongoing experiment?
+    * _Why_ | Why was this experiment performed? How does it relate to your question?
+
+##### Research Workflow
+
+##### Research Data Files
+
+---------------------------------------
+**_Readings & Resources_**
+* [Ten Simple Rules for Creating a Good Data Management Plan](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004525)
+* [Research Data Management: A Primer Publication of the National Information Standards Organization](https://groups.niso.org/higherlogic/ws/public/download/15375/PrimerRDM-2015-0727.pdf)
+* [Data Management Best Practices](https://old.dataone.org/best-practices)
+* [Primer on Data Management: What you always wanted to know but were afraid to ask](https://old.dataone.org/sites/all/documents/DataONE_BP_Primer_020212.pdf)
+* [Nine simple ways to make it easier to (re)use your data](https://ojs.library.queensu.ca/index.php/IEE/article/view/4608)
+* [Crowdsourced spreadsheet detailing features of agency public access and data sharing policies](https://docs.google.com/spreadsheets/d/1PYOhBh6bglh6BkQFlpvNLOwlpzvQyguWAG8AkQMtU0s/edit#gid=985495879)
+* [Best Practice Data Life Cycle Approaches for the Life Sciences](https://www.biorxiv.org/content/10.1101/167619v1)
+* [Open Data Handbook. File Formats](http://opendatahandbook.org/guide/en/appendices/file-formats/)
+* [UK Data Service. Format your data](https://ukdataservice.ac.uk/learning-hub/research-data-management/#format-your-data)
+* [A Quick Introduction to Version Control with Git and GitHub](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004668)
+* [Review of Data Management Lifecycle Models](https://researchportal.bath.ac.uk/en/publications/review-of-data-management-lifecycle-models)
+* [OME. Bio-formats](https://www.openmicroscopy.org/bio-formats/)
+* [PRONOM. Online Registry of Technical Information](http://www.nationalarchives.gov.uk/pronom/)
