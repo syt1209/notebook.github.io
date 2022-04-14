@@ -107,7 +107,83 @@
 
 ##### Research Workflow
 
-##### Research Data Files
+* **Data workflow**: Creating Data --> Processing Data --> Preserving Data --> Sharing Data --> Reusing Data
+    
+    **1. Creating Data**
+    * Design expriment
+        * Methods
+        * Sample login
+    * Collect raw data
+        * Experiment
+        * Observation
+        * Measurements
+    * Capture metadata
+
+    **2. Processing Data**
+    * Interpret data
+        * Tables
+        * Charts
+        * Graphs
+        * Drawings
+        * Pictures
+    * Review data
+        * PI
+        * Collaborators
+        * Regulators
+    * Prepare manuscript
+    
+    **3. Preserving Data**
+    * Migrate data
+        * Format
+    * Backup/store data
+        * Local
+        * Network
+        * Repository
+    * Create metadata, documentation
+    * File/folder organizational scheme
+        * Concise, meaningful
+        * Consistent
+        * Versioning
+    * Sharing Data
+        * Share w/ collaborators
+        * Promote data
+        * Control access
+            * Secure method
+            * DOI
+    * Reusing Data
+        * New research
+        * Teach/learn
+        * Follow-up research
+
+##### Tips on folder/file organization
+
+ * **Organize folders by meaningful hierarchical categories** such as primary/secondary/tertiary or subject/collection method/time
+
+ * **Project or experiment name or acronym**: use meaningful abbreviations
+
+ * **Researcher name/initials**: using a last name is the standard reference for retrieving records and ensures that files are sorted in proper alphabetical order
+
+ * **Type of data**: text, images, sound files, etc
+
+ * **Version number of file**: a “V” helps denote that the element pertains to a version number
+
+ * **Including the three-letter file extension for application-specific files** aids in setting up calling or associated programs with your operating system
+
+ * **Use a sequential numbering system** leading with zeros for clarity and to make sure files sort in sequential order. For example, use "001, 002, ...010, 011 ... 100, 101, etc." instead of "1, 2, ...10, 11 ... 100, 101, etc"
+
+ * **Include date or date range of experiment** using consistent date recording: best practice for date designations is YYYYMMDD or YYMMDD. This format makes sure all of your files stay in chronological order, even over the span of many years
+
+ * **Try not to make file names too long**, since long file names do not work well with all types of software
+
+ * **Avoid proprietary formats**: DOC and DOCX Word documents are in proprietary formats and should be stored in another location as well and should have back up revisions as TXT or RTF files
+
+ * **Understand image file formats**: JPG files are okay but TIF files are preferred for reuse. TIF is a lossless file format, so nothing is lost when the file is saved and compressed, and they have the capacity to support layers
+
+ * **Do not use spaces, periods or other special characters**. Other options include: Underscores (file_name.xxx), Dashes (file-name.xxx), No separation (filename.xxx); Camel case (FileName.xxx)
+
+ * **Include in the directory a readme.txt file** that explains your naming format along with any abbreviations or codes you have used.
+
+##### Data Types, Formats, & Stages
 
 ---------------------------------------
 ###### Readings & Resources
