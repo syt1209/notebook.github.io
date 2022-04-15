@@ -99,11 +99,11 @@
 * **ISO standards for dates**: yyyymmdd
 
 * **Metadata**: 
-    * _Who_ | Who collected the data? Who/what were the subjects under study?
-    * _What_ | What data was collected, and for what purpose? What is the content and structure of the data?
+    * _Who_   | Who collected the data? Who/what were the subjects under study?
+    * _What_  | What data was collected, and for what purpose? What is the content and structure of the data?
     * _Where_ | Where was this data collected? What were the experimental conditions that produced it?
-    * _When_ | When was the data collected? Is the data part of a series, or ongoing experiment?
-    * _Why_ | Why was this experiment performed? How does it relate to your question?
+    * _When_  | When was the data collected? Is the data part of a series, or ongoing experiment?
+    * _Why_   | Why was this experiment performed? How does it relate to your question?
 
 ##### Research Workflow
 
@@ -183,7 +183,8 @@
 
  * **Include in the directory a readme.txt file** that explains your naming format along with any abbreviations or codes you have used.
 
-##### Data Types, Formats, & Stages
+#### Metadata - Contextual details
+
 
 ---------------------------------------
 ###### Readings & Resources
