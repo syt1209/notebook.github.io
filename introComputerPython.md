@@ -1,6 +1,6 @@
 ### Introduction to Computation and Programming Using Python
 
-[MIT OpenCourseWare](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/)
+[MIT OpenCourseWare](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) | [Home](./index.md)
 
 **Main Topics**
 * [What is computation?](#what-is-computation)

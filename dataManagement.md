@@ -1,6 +1,6 @@
 ### Best Practices for Biomedical Research Data Management
 
-[Harvard Medical School Course](https://www.canvas.net/browse/harvard-medical/courses/biomed-research-data-mgmt)
+[Harvard Medical School Course](https://www.canvas.net/browse/harvard-medical/courses/biomed-research-data-mgmt) | [Home](./index.md)
 
 **Main takeways**
 - Types of research data.
