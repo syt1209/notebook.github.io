@@ -185,6 +185,38 @@
 
 #### Metadata - Contextual details
 
+* **What is metadata?**
+
+    _Structured information that describes, explains, locates, orotherwise makes it easier to retrieve, use, or manage an information resource._
+
+* **Why is metadata important?**
+
+    _Find data, use the data, help others to find and use data, future use..._
+
+* **Types of metadata**
+
+    _**Descriptive metadata** describes the object or data and gives the basic facts_
+
+    _**Structural metadata** describes the structure of an object including its components and how they are related_
+
+    _**Administrative metadata** includes information about the management of the project_
+
+* **Metadata standards**
+
+    [List of Metadata Standards](https://www.dcc.ac.uk/guidance/standards/metadata/list)
+
+* **Best practices for metadata creation**
+
+    * Identify formats, terminologies and guidelines
+        
+        * Conceptual model: define the structure and interrelation of information and transmission format
+        * Controlled vocabularies: lists of predefined terms that ensure consistency of use
+        * Technical standards: ensure that units such as date and time, etc. are entered in consistent formats
+        * Minimum information reporting: report the same essential information
+    * Identify data elements (dates, funders, methodologies, files)
+
+#### Data Storage and Security
+
 
 ---------------------------------------
 ###### Readings & Resources
@@ -201,3 +233,9 @@
 * [Review of Data Management Lifecycle Models](https://researchportal.bath.ac.uk/en/publications/review-of-data-management-lifecycle-models)
 * [OME. Bio-formats](https://www.openmicroscopy.org/bio-formats/)
 * [PRONOM. Online Registry of Technical Information](http://www.nationalarchives.gov.uk/pronom/)
+* [Data Management Rubric for Video Data in Organismal Biology](https://academic.oup.com/icb/article/57/1/33/3964476)
+* [Lurking in the Lab: Analysis of Data from Molecular Biology Laboratory Instruments](https://escholarship.umassmed.edu/jeslib/vol1/iss3/5/)
+* [The Importance of Metadata Standards](https://uop.whoi.edu/techdocs/presentations/MMI_Guides.pdf)
+* [Version control and authenticity](https://ukdataservice.ac.uk/learning-hub/research-data-management/format-your-data/versioning/)
+* [Data Documentation Initiative: Toward a Standard for the Social Sciences](http://www.ijdc.net/article/view/66)
+* [Big data, little data, no data: Scholarship in the networked world](https://mitpress.mit.edu/books/big-data-little-data-no-data)
