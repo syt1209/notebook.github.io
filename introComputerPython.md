@@ -47,6 +47,38 @@
 
 ![basicMachineArchitecture](/assets/basicMachineArchitecture.png)
 
+**Basic primitives**
+- Turing: you can compute anything using 6 primitives
+- Can abstract method to create new primitives
+
+
+**Creating recipes**
+- a set of **primitive operations** provided by a promgramming language
+- **expressions**: complex but legal combinations of primitives
+- expressions and computations have values and meanings
+
+**Aspects of languages**
+- **_primitive construct_**: numbers, strings, simple operators
+- **_syntax_**
+- **_static semantics_**: syntactically valid strings have meanings
+- **_semantics_**: meaning associated with a syntactically correct string of symbols with no static semantic errors
+
+**ERRORS**
+- **_syntatic errors_**
+- **_static semantic errors_**
+- **_no semantic errors but different meaning than what programmer intended_**
+
+**(Python) Program**
+- Sequence of definitions and commands
+    - definitions _evaluated_
+    - commands _executed_ 
+
+**Objects**
+- manipulated by programs
+- have a _type_ that defines things programs can do to them
+- _scalar_: cannot be subdivided
+- _non-scalar_: have internal structure that can be accessed
+
 
 
 
