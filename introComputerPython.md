@@ -75,13 +75,45 @@
 
 **Objects**
 - manipulated by programs
-- have a _type_ that defines things programs can do to them
-- _scalar_: cannot be subdivided
-- _non-scalar_: have internal structure that can be accessed
+- have a **_type_** that defines things programs can do to them
+- **_scalar_**: cannot be subdivided
+    - `int` - integers, ex. 7
+    - `float` - real numbers, ex. 2.13
+    - `bool` - Boolean values, `True` and `False`
+    - `NoneType` - special and has one value, `None`
+    - `type()` - see the type of an object
+    ```python
+    >>> type(7)
+    int
+    ```
+    - **Type conversion (CAST)**: convert object of one type to another
+        - `float(3)` converts integer `3` to float `3.0`
+        - `int(3.9)` truncates float 3.9 to integer `3`
+    
+    -`print` command shows output from code to a user
+    ```python
+    In [1]: print(1+1)
+    2
+    ```
+- **_non-scalar_**: have internal structure that can be accessed
 
-
-
-
+**Expressions**
+- combine objects and operators
+- has a **value**, which has a **type**
+- syntax: `<object> <operator> <object>`
+    - `i+j`  &rarr; sum
+    - `i-j`  &rarr; difference
+    - `i*j`  &rarr; product
+    - `i/j`  &rarr; division (result is float)
+    - `i%j`  &rarr; remainder when `i` is divided by `j`
+    - `i**j` &rarr; `i` to the power of `j` 
+- `()` tells Python to do these operations first
+- operator precedence
+    - `**`
+    - `*`
+    - `/`
+    - `+` and `-` executed left to right
+- `=` is an *assignment* of a value to a variable name
 
 
 #### Branching and iteration
