@@ -118,6 +118,44 @@
 
 #### Branching and iteration
 
+- String object type  
+    - String  
+        - letters, special characters, spaces, digits
+        - `hi = "hello"` --enclose in **quotation marks or single quotes**
+        - can be **concatenated**
+        - `name = "Ann"`
+        - `greet = hi + name`
+        - operations on a string
+        ```python
+        silly = hi + " " + name * 3
+        ```
+- Input/Output: `input()`/`print()`    
+        **input() only takes _string_ input**
+- Comparison operators on `int, float, string`
+    ```python
+    i > j
+    i >= j
+    i < j
+    i <= j
+    i == j
+    i != j
+    ```
+- Logit operators on `boolean`
+    ```python
+    not a 
+    a and b
+    a or b
+    ```
+  |  `a` | `b` | `a and b` | `a or b`|
+  |---|---|---|---|
+  |`True`| `True`|``|``|
+  |``|``|``|``|
+  |``|``|``|``|
+  |``|``|``|``|
+- Branching and conditionals
+- Indentation
+- Iteration and loops
+
 #### String Manipulation, Guess and Check, Approximations, Bisection
 
 #### Decomposition, Abstractions, Functions
