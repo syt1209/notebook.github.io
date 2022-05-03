@@ -187,7 +187,7 @@
 
 * **What is metadata?**
 
-    _Structured information that describes, explains, locates, orotherwise makes it easier to retrieve, use, or manage an information resource._
+    _Structured information that describes, explains, locates, or otherwise makes it easier to retrieve, use, or manage an information resource._
 
 * **Why is metadata important?**
 
@@ -210,10 +210,39 @@
     * Identify formats, terminologies and guidelines
         
         * Conceptual model: define the structure and interrelation of information and transmission format
-        * Controlled vocabularies: lists of predefined terms that ensure consistency of use
+        * Controlled vocabularies: lists of predefined terms that ensure consistency of use. A list of predefined terms specific to a single discipline
         * Technical standards: ensure that units such as date and time, etc. are entered in consistent formats
         * Minimum information reporting: report the same essential information
     * Identify data elements (dates, funders, methodologies, files)
+
+    **_Metadata_** includes:
+        - Types/formats of measures  
+        - Data Dictionary with file naming conventions  
+        - File formats and size  
+        - Statistical programs used for analysis  
+        - Names and models of instrumentation  
+        - Conditions under which data were collected  
+        - Descriptive data associated with ID of participant  
+        - Sharing and reuse policy  
+        - Access and rights policy  
+
+    **_Possible standards_**:  
+    - **Dublin Core**: A basic, domain-agnostic standard which can be easily understood and implemented, and as such is one of the best known and most widely used metadata standards.  
+    - **Darwin Core**: The Darwin Core is a metadata specification for information about the geographic occurrence of species and the existence of specimens in collections.
+    - **Observ-OM**: Used to integrate and compare observation data across experimental projects, disease databases, and clinical biobanks.
+
+    ##### Key concepts
+    - **Ontology**: A set of concepts and categories in a subject area that shows their properties and the relations between them.  
+    - **Taxonomy**: A hierarchy that uses the “is a” relation  
+    - **Controlled Vocabulary**: An enumeration of terms defined to be shared and reused
+    - **Glossary**: List of terms with definitions and explanations in natural language
+    - **Classification**: A set of categories in which objects are grouped into
+    - **Folksonomy**: A collection of terms (tags) to enhance categorization
+    - **FAIR**
+        - **Findable**: metadata should be uniquely and persistently identifiable  
+        - **Accessible**: identifiers should provide a mechanism for metadata access (license, authentication)  
+        - **Interoperable**: metadata should be machine-accessible & use standard vocabulary  
+        - **Reusable**: there should be sufficient metadata to integrate like with like and allow component data objects to be cited post-integration  
 
 #### Data Storage and Security
 
