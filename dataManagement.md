@@ -2,6 +2,13 @@
 
 [Harvard Medical School Course](https://www.canvas.net/browse/harvard-medical/courses/biomed-research-data-mgmt) | [Home](./index.md)
 
+**Main Topics**
+* [Research Data Management](#research-data-management)
+* [The Research Lifecycle](#the-research-lifecycle)
+* [Metadata](#metadata---contextual-details)
+* [Data Storage and Security](#data-storage-and-security)
+* _[Resources](#readings--resources)_
+
 **Main takeways**
 - Types of research data.
 - The research lifecycle.
