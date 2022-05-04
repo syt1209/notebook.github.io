@@ -180,6 +180,7 @@
     ```
 - Iteration and loops
     - Control Flow - `while` loops
+      
     ```python
     while <condition>:
         <expression>
@@ -190,8 +191,10 @@
     repeat until <condition> is False.  
     '''
     ```
+      
     - Control Flow - `while` and `for` loops  
-    ex. Iterate through numbers in a sequence
+    ex. Iterate through numbers in a sequence  
+
     ```python
     # more complicated with while loop
     n = 0
@@ -203,7 +206,9 @@
     for n in range(5):
         print(n)
     ```
+      
     - Control Flow - `for` loops
+      
     ```python
     for <variable> in range(<some_num>):
         <expression>
@@ -215,11 +220,12 @@
     etc.  
     '''
     ```
+      
     `range(start, stop, step)`  
     - default values are `start = 0` and `step = 1` and optional  
     - loop until value is `stop - 1`
     
-    `break` statement
+    `break` statement  
     - immediately exits whatever loop it is in
     - skips remaining expressions in code block
     - exits only innermost loop!
