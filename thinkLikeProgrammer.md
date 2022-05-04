@@ -1,4 +1,4 @@
-### [Think Like a Programmer](https://www.oreilly.com/library/view/think-like-a/9781457169618/)
+### [Think Like a Programmer](https://www.oreilly.com/library/view/think-like-a/9781457169618/)  
 Author(s): V. Anton Spraul | Release date: August 2012 | Publisher(s): No Starch Press | ISBN: 9781593274245
 
 #### **Main takeways**
