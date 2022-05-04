@@ -4,9 +4,16 @@
 
 **Main Topics**
 * [Research Data Management](#research-data-management)
-* [The Research Lifecycle](#the-research-lifecycle)
+* [The Research Lifecycle](#the-research-lifecycle)  
+    * [Research workflow](#research-workflow)
+    * [Tips on file/folder organization](#tips-on-folderfile-organization)
 * [Metadata](#metadata---contextual-details)
 * [Data Storage and Security](#data-storage-and-security)
+* [Data Management Policy](#data-management-policy)
+* [Biomedical Ethics](#biomedical-ethics)
+* [Data Sharing and Reuse](#data-sharing-and-reuse)
+* [Curation and Preservation for Data](#curation-and-preservation-for-data)
+* [Scientific Research Team](#scientific-research-team)
 * _[Resources](#readings--resources)_
 
 **Main takeways**
@@ -251,8 +258,12 @@
         - **Interoperable**: metadata should be machine-accessible & use standard vocabulary  
         - **Reusable**: there should be sufficient metadata to integrate like with like and allow component data objects to be cited post-integration  
 
-#### Data Storage and Security
-
+#### Data Storage and Security  
+#### Data Management Policy  
+#### Biomedical Ethics
+#### Data Sharing and Reuse
+#### Curation and Preservation for Data
+#### Scientific Research Team
 
 ---------------------------------------
 ###### Readings & Resources
