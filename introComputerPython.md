@@ -146,16 +146,91 @@
     a and b
     a or b
     ```
-  |  `a` | `b` | `a and b` | `a or b`|
-  |---|---|---|---|
-  |`True`| `True`|``|``|
-  |``|``|``|``|
-  |``|``|``|``|
-  |``|``|``|``|
-- Branching and conditionals
-- Indentation
-- Iteration and loops
+    `a` | `b` | `a and b` | `a or b`
+  ---|---|---|---
+  `True`| `True`|`True`|`True`
+  `True`|`False`|`False`|`True`
+  `False`|`True`|`False`|`True`
+  `False`|`False`|`False`|`False`
 
+- Branching and conditionals
+    - Control Flow - Branching
+    ```python
+    if <condition>: # <condition> has a value of True of False
+        <expression> # evaluate expression in the block if <condition> is True
+        ...
+    ---------------------------------------------------------------------------
+    if <condition>:
+        <expression>
+        ...
+    else:
+        <expression>
+        ...
+    ---------------------------------------------------------------------------
+    if <condition>:
+        <expression>
+        ...
+    elif:
+        <expression>
+        ...
+    else:
+        <expression>
+        ...
+    ```
+- Iteration and loops
+    - Control Flow - `while` loops
+    ```python
+    while <condition>:
+        <expression>
+        ...
+    '''
+    if <condition> is True, do all the steps inside the while code block;  
+    check <condition> again;  
+    repeat until <condition> is False.  
+    '''
+    ```
+    - Control Flow - `while` and `for` loops  
+    ex. Iterate through numbers in a sequence
+    ```python
+    # more complicated with while loop
+    n = 0
+    while n < 5:
+        print(n)
+        n = n+1
+    
+    # shortcut with for loop
+    for n in range(5):
+        print(n)
+    ```
+    - Control Flow - `for` loops
+    ```python
+    for <variable> in range(<some_num>):
+        <expression>
+        ...
+    '''
+    each time through the loop, <variable> takes a value;  
+    first time, <variable> starts at the smallest value;  
+    next time, <variable> gets the prev value + 1;  
+    etc.  
+    '''
+    ```
+    `range(start, stop, step)`  
+    - default values are `start = 0` and `step = 1` and optional  
+    - loop until value is `stop - 1`
+    
+    `break` statement
+    - immediately exits whatever loop it is in
+    - skips remaining expressions in code block
+    - exits only innermost loop!
+
+    `for` loops | `while` loops
+    --- | ---  
+    known number of iterations | unbounded number of iterations
+    can end early via `break` | can end early via `break`
+    uses a counter | can use a counter but must initialize before loop and increment it inside loop  
+    can rewrite a `for` loop using a `while` loop | may not be able to rewrite a `while` loop using a `for` loop  
+    
+*------coming next------*
 #### String Manipulation, Guess and Check, Approximations, Bisection
 
 #### Decomposition, Abstractions, Functions
