@@ -237,6 +237,7 @@
     uses a counter | can use a counter but must initialize before loop and increment it inside loop  
     can rewrite a `for` loop using a `while` loop | may not be able to rewrite a `while` loop using a `for` loop  
     
+
 *------coming next------*
 #### String Manipulation, Guess and Check, Approximations, Bisection
 
