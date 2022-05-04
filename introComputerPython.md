@@ -146,6 +146,7 @@
     a and b
     a or b
     ```
+  
     `a` | `b` | `a and b` | `a or b`
   ---|---|---|---
   `True`| `True`|`True`|`True`
@@ -222,7 +223,7 @@
     - immediately exits whatever loop it is in
     - skips remaining expressions in code block
     - exits only innermost loop!
-
+  
     `for` loops | `while` loops
     --- | ---  
     known number of iterations | unbounded number of iterations
