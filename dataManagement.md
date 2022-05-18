@@ -259,6 +259,46 @@
         - **Reusable**: there should be sufficient metadata to integrate like with like and allow component data objects to be cited post-integration  
 
 #### Data Storage and Security  
+  
+_Objectives_:  
+1. Identify storage options and stategies for research data
+2. Identify a backup strategy in the short- or longer-term
+3. Describe options for restricting access to research data
+4. Describe mechanisms for securing hardware and software systems
+5. Describe mechanisms for protecting the integrity of data
+
+- **Storage**
+- **Backup**
+    - Backup procedure
+        - Full
+        - Differential
+        - Incremental
+    - Backup Frequency
+        - Daily
+        - Weekly
+        - Monthly
+    - Backup Rule of Three:
+        - Three copies of your data
+        - Two different storage types 
+        - One copy of the data offiste 
+- **Security**
+    - Phishing
+    - Malware
+    - Ransomware
+    - Level of security
+        - Limit the access to data
+        - Protect the integrity of data at the file level
+        - Use software that can protect data and its integrity
+        - Protect the hardware and software systems you use
+
+- **Electronic Lab Notebook**
+    - easier to search upon
+    - simplify data copying and backup
+    - support collaboration amongst users
+    ...
+    **_REDCap_**: Research Electronic Data Capture (compliance with 21 CFR Part 11, FISMA, HIPAA, and GDPR)
+
+
 #### Data Management Policy  
 #### Biomedical Ethics
 #### Data Sharing and Reuse
